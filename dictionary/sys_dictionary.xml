@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="no_labels=true,update_synch=true" audit="true" extends="sys_metadata" label="Dictionary Entry" max_length="40" name="sys_dictionary" read_roles="admin" sizeclass="95105" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Country Code" max_length="40" name="u_country_code" type="string"/>
+    </element>
+</database>
